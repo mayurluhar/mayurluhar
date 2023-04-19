@@ -66,21 +66,6 @@
 		</div>
 	</foreignObject>
 </svg>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-SelinJodhani/name.svg at master · SelinJodhani/SelinJodhani
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurluhar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurluhar" /> </p>
 
