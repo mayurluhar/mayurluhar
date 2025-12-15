@@ -39,7 +39,7 @@ I enjoy designing clean APIs, reliable data pipelines, and backend architectures
 - Cost-aware & scalable serverless design
 
 **Databases**
-- MongoDB, MySQL, DynamoDB
+- MongoDB, MySQL, DynamoDB, PostgreSQL
 
 **Tools & Practices**
 - Git, Docker, Postman
